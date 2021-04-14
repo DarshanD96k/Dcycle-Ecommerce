@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'poppins',sans-serif;
+  }
+  .buybutt{
+      font-size: 15px;
+      background-color: crimson;
+      margin: 35px;
+      margin-left: 35px;
+      padding: 5px 20px;
+      box-sizing: content-box;
+      border-radius: 15px;
+  }

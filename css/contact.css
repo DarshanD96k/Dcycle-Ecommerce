@@ -1,0 +1,74 @@
+/*contact.html//.........................................................
+..............................
+.
+..............................................................................................................*/
+.F{
+    color: rgb(43, 7, 204);
+    font-size-adjust: 30px;
+    font-family: 'Poppins',sans-serif;
+    }
+    label.j{
+        color: red;
+        font-size: 30px;
+        font-family: sans-serif;
+      font-style: oblique;
+      
+      background-color: darkgreen;
+      
+      
+    border-block-end-width: 10px;
+    border-block-end-color: darkgreen;}
+    
+    
+    .lege{
+      font-family: sans-serif;
+      font-size: 20px;
+    }
+    fieldset{
+      color: rgb(32, 184, 12);
+      border-block-color: blue;
+      border-block-start-style: dashed;
+      border-block-start-width: 5px;
+      border-top-color: chartreuse;
+      border-color: crimson;
+      border-block-end-color: darkblue;
+      border-inline-color: white;
+      border-radius: 50px;
+    }
+      .tarea{
+    
+        background-color: red;
+        
+        font-display: blue;
+        border-block-color: rgb(65, 12, 189);
+    }
+    
+    
+  /* contct responsive at 1000 px*...........................*/
+  
+    
+  .tarea{
+    height:100px;
+    width:1000px;
+    font-display: blue;
+    border-block-color: rgb(65, 12, 189);
+    border-block-width: 20px;
+}
+
+}
+
+
+/* contct responsive at  900 px*...........................*/
+
+  
+.tarea{
+
+    background-color: red;
+    height: 200px;
+    width:550px;
+    font-display: blue;
+    border-block-color: rgb(65, 12, 189);
+    border-block-width: 20px;
+ }
+ 
+    

@@ -1,0 +1,50 @@
+*{
+    font-family: sans-serif;
+    
+    padding: 0px;
+    margin:0px;
+    }
+    .backadd{
+        justify-content: center;
+        display: flex;
+        margin-top: 100px;
+        font-size: 25px;
+      
+    }
+    form{
+        justify-content: center;
+        align-self:center;
+        margin: 15%;
+        margin-top: 5%;
+        
+    }
+    p{
+        justify-content: center;
+        align-self:center;
+        margin: 5%;
+        font-style: bold;
+        font-weight: lighter;
+    
+    }
+    fieldset{
+        border-color: crimson;
+        border-width: 2%;
+    }
+    input{
+        border-color: green;
+        border-width: 2%;
+    }
+    select{
+        border-color: green;
+        border-width: 2%;
+    
+    }
+    Button{
+        color: blue;
+    }
+    .submitbut{
+        color: blanchedalmond;
+        padding-right: 3%;
+        padding-left: 3%;
+        border-radius: 25%;
+    }
